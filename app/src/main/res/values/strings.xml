@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="retry">Retry</string>
+    <string name="error">Error while loading movies</string>
+    <string name="empty_response">No movies found</string>
+    <string name="search">search</string>
+    <string name="search_result">Search Result for %s</string>
+</resources>
